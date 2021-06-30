@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HPujLavuaflPy2IrQmIxOTMWCXVN85j7ZGF1iCgia3WbJ/IFRzc84zbQdiFLLAREFQ9C4HBSu2fISDVzviMQ8Q==",
+  "dgSpecHash": "nBF3N46RJENXHqXUyVQAvSPTMoFeyrzIF8yI5HD1m/qN5lbTTx6mG+DZuZoyoxPi76HLnb1J12hFQ19GsRQv2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\sample_API\\sample_API\\sample_API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramesh Palani Swamy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
   "logs": []
 }
